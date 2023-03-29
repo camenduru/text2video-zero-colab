@@ -21,7 +21,7 @@ Text, Canny-Edge and DreamBooth Conditional Video Generation <br />
 Description: Our current release supports only four predefined DreamBooth models and four "motion edges". So you must choose one DreamBooth model and one "motion edges" shown below, or use the examples. The keywords 1girl, arcane style, gtav, and avatar style correspond to the models from left to right. <br />
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_canny_dreambooth.ipynb) text2video_canny_dreambooth This one works with Free T4 🥳 <br />
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_all.ipynb) text2-video-all All in one, This one works with Free T4 🥳
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_all.ipynb) text2-video-all All in one, This one works with Free T4 🥳 But we should wait until all example generations are complete!
 
 ## Paper 
 https://arxiv.org/abs/2303.13439
