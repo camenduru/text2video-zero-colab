@@ -25,6 +25,7 @@ Description: Our current release supports only four predefined DreamBooth models
 
 ### All-In-One
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_all.ipynb) text2-video-all All in one, This one works with Free T4 🥳 <br />
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_pro.ipynb) text2-video-pro All in one, This one works with Pro A100 🥳 <br />
 
 ## Paper 
 https://arxiv.org/abs/2303.13439
