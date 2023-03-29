@@ -1,4 +1,4 @@
 # 🚦 WIP 🚦
 
 ## Main Repo
-https://huggingface.co/spaces/PAIR/Text2Video-Zero
+https://github.com/Picsart-AI-Research/Text2Video-Zero
