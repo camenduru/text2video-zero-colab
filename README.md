@@ -32,6 +32,8 @@ https://arxiv.org/abs/2303.13439
 ## Main Repo
 https://github.com/Picsart-AI-Research/Text2Video-Zero <br />
 https://huggingface.co/spaces/PAIR/Text2Video-Zero <br />
+https://github.com/lllyasviel/ControlNet <br />
+https://github.com/huggingface/diffusers <br />
 
 ## Examples
 ![examples](https://user-images.githubusercontent.com/54370274/228434661-056f445b-3998-4918-b2fb-3e82ec022080.gif)
