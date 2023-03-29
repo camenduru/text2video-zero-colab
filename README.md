@@ -3,7 +3,8 @@
 
 ## 🚦 WIP 🚦
 
-### All-In-One with Custom Model (thanks to @Norod for the info ❤)
+### All-In-One with Custom Model 
+Thanks to @Norod for the info ❤ <br />
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_custom.ipynb) text2-video-custom All in one, This one works with Free T4 🥳 <br />
 
 
