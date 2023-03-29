@@ -10,6 +10,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/pix2pix_video.ipynb) pix2pix_video ???
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_canny_dreambooth.ipynb) text2video_canny_dreambooth ???
 
 
 ## Paper 
