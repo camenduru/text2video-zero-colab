@@ -11,8 +11,7 @@ Text and Pose Conditional Video Generation <br />
 You must select one pose sequence shown on the right, or use the examples <br />
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_pose.ipynb) text2video_pose This one works with Free T4 🥳 <br />
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/pix2pix_video.ipynb) pix2pix_video ???
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/pix2pix_video.ipynb) pix2pix_video This one works with Free T4 🥳 <br />
 
 Text and Canny-Edge Conditional Video Generation <br />
 Description: For performance purposes, our current preview release supports any input videos but caps output videos to no longer than 15 seconds and the input videos are scaled down before processing. <br />
