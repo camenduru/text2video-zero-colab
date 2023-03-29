@@ -32,3 +32,6 @@ https://huggingface.co/spaces/PAIR/Text2Video-Zero <br />
 
 ## Examples
 ![examples](https://user-images.githubusercontent.com/54370274/228434661-056f445b-3998-4918-b2fb-3e82ec022080.gif)
+
+## Related Colab
+https://github.com/camenduru/text-to-video-synthesis-colab
