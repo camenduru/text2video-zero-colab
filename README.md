@@ -1,4 +1,7 @@
-# 🚦 WIP 🚦
+🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
+
+## 🚦 WIP 🚦
 
 ### Text2Video-Zero: Video Generation
 Description: Simply input any textual prompt to generate videos right away and unleash your creativity and imagination! You can also select from the examples below. For performance purposes, our current preview release generates only 8 output frames and output 4s videos. <br />
