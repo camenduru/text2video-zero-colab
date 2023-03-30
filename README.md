@@ -10,6 +10,11 @@ Thanks to @Norod for the info ❤ <br />
 ### All-In-One with Custom Model Notebook for RunPod
 https://github.com/camenduru/runpod
 
+### All-In-One
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_pro.ipynb) text2-video-pro All in one, This one works with Pro A100 🥳 <br />
+
+### 🚨 The Colab notebooks below have a temporal consistency problem due to the use of xformers 😭 We are currently working on resolving it.
+
 ### Text2Video-Zero: Video Generation
 Description: Simply input any textual prompt to generate videos right away and unleash your creativity and imagination! You can also select from the examples below. For performance purposes, our current preview release generates only 8 output frames and output 4s videos. <br />
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_zero.ipynb) text2video_zero This one works with Free T4 🥳 <br />
@@ -32,7 +37,6 @@ Description: Our current release supports only four predefined DreamBooth models
 
 ### All-In-One
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_all.ipynb) text2-video-all All in one, This one works with Free T4 🥳 <br />
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_pro.ipynb) text2-video-pro All in one, This one works with Pro A100 🥳 <br />
 
 ## Paper 
 https://arxiv.org/abs/2303.13439
