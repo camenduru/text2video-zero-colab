@@ -15,7 +15,7 @@ https://github.com/camenduru/runpod
 
 ### 🚨 The Colab notebooks below have a temporal consistency problem due to the use of xformers 😭 We are currently working on resolving it.
 
-| with xformers | without xformers
+| with xformers | without xformers (needs more than 20GB vram)
 | --- | --- | 
 ![image_5](https://user-images.githubusercontent.com/54370274/228700990-f1c76506-027c-4ede-bdd1-685069724547.gif) | ![image (6)](https://user-images.githubusercontent.com/54370274/228700984-46ac3613-a53a-46d2-a3f1-122b5550fbee.gif)
 
