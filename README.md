@@ -3,21 +3,21 @@
 
 ## 🚦 WIP 🚦
 
-### All-In-One with Custom Model 
-Thanks to @Norod for the info ❤ <br />
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_custom.ipynb) text2-video-custom All in one, This one works with Free T4 🥳 <br />
+### All-In-One
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_pro.ipynb) text2-video-pro All in one, This one works with Pro A100 🥳 <br />
 
 ### All-In-One with Custom Model Notebook for RunPod
 https://github.com/camenduru/runpod
-
-### All-In-One
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_pro.ipynb) text2-video-pro All in one, This one works with Pro A100 🥳 <br />
 
 ### 🚨 The Colab notebooks below have a temporal consistency problem due to the use of xformers 😭 We are currently working on resolving it.
 
 | with xformers | without xformers (needs more than 20GB vram)
 | --- | --- | 
 ![image_5](https://user-images.githubusercontent.com/54370274/228700990-f1c76506-027c-4ede-bdd1-685069724547.gif) | ![image (6)](https://user-images.githubusercontent.com/54370274/228700984-46ac3613-a53a-46d2-a3f1-122b5550fbee.gif)
+
+### All-In-One with Custom Model 
+Thanks to @Norod for the info ❤ <br />
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_custom.ipynb) text2-video-custom All in one, This one works with Free T4 🥳 <br />
 
 ### Text2Video-Zero: Video Generation
 Description: Simply input any textual prompt to generate videos right away and unleash your creativity and imagination! You can also select from the examples below. For performance purposes, our current preview release generates only 8 output frames and output 4s videos. <br />
