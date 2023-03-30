@@ -19,6 +19,9 @@ https://github.com/camenduru/runpod
 Thanks to @Norod for the info ❤ <br />
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_custom.ipynb) text2-video-custom All in one, This one works with Free T4 🥳 <br />
 
+### All-In-One
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_all.ipynb) text2-video-all All in one, This one works with Free T4 🥳 <br />
+
 ### Text2Video-Zero: Video Generation
 Description: Simply input any textual prompt to generate videos right away and unleash your creativity and imagination! You can also select from the examples below. For performance purposes, our current preview release generates only 8 output frames and output 4s videos. <br />
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_zero.ipynb) text2video_zero This one works with Free T4 🥳 <br />
@@ -38,9 +41,6 @@ Description: For performance purposes, our current preview release supports any 
 ### Text, Canny-Edge and DreamBooth Conditional Video Generation
 Description: Our current release supports only four predefined DreamBooth models and four "motion edges". So you must choose one DreamBooth model and one "motion edges" shown below, or use the examples. The keywords 1girl, arcane style, gtav, and avatar style correspond to the models from left to right. <br />
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_canny_dreambooth.ipynb) text2video_canny_dreambooth This one works with Free T4 🥳 <br />
-
-### All-In-One
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_all.ipynb) text2-video-all All in one, This one works with Free T4 🥳 <br />
 
 ## Paper 
 https://arxiv.org/abs/2303.13439
