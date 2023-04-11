@@ -5,8 +5,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_all.ipynb) | text2-video-all
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_custom.ipynb) | text2-video-custom <br /> Thanks to @Norod for the info ❤
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_all.ipynb) | text2video_all
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_custom.ipynb) | text2video_custom <br /> Thanks to @Norod for the info ❤
 
 ## Paper 
 https://arxiv.org/abs/2303.13439
