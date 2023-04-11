@@ -12,6 +12,8 @@
 
 ## Colab Pro
 
+| Colab | Info
+| --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_custom_pro.ipynb) | text2video_custom_pro <br /> use with your custom model 🥳
 
 ## Paper 
