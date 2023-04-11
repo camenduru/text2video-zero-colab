@@ -3,14 +3,14 @@
 
 ## 🚦 WIP 🚦
 
-## Colab
+## 🦒 Colab
 
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_all.ipynb) | text2video_all <br /> runwayml/stable-diffusion-v1-5
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_custom.ipynb) | text2video_custom <br /> use with your custom model 🥳 <br /> Thanks to @Norod for the info ❤
 
-## Colab Pro
+## 🦒 Colab Pro
 
 | Colab | Info
 | --- | --- |
